@@ -8,13 +8,18 @@ class PrintingComments extends ConsoleProgram {
   public void run() {
 
     // Say hello
-    
+    System.out.println("Hello");
+    System.out.println("There");
 
     // Say hello on the same line
+    System.out.print("Hello");
+    System.out.print("There");
     
-    
-    // multiline comment
-    
+    //multiple line comment ch
+    /*multiple
+     * line
+     * comment
+     */
     
 
   }
